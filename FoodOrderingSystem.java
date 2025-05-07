@@ -27,7 +27,7 @@ public class FoodOrderingSystem extends JFrame {
     private int userRating = 0;
 
     public FoodOrderingSystem() {
-        setTitle("DineDash - Food Ordering System");
+        setTitle("CraveEase - Food Ordering System");
         setSize(1400, 900);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout(15, 15));
