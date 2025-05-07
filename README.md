@@ -76,9 +76,3 @@ CraveEase is a desktop-based Java Swing application that simulates a modern and 
 
 ---
 
-## 📌 Suggested Future Enhancements
-
-- Add database integration for order storage.
-- Implement real payment gateway support (e.g., Razorpay, Stripe).
-- Add admin panel for menu management.
-- Create a `.jar` installer or executable package.
